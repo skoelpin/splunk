@@ -1,3 +1,6 @@
+<img src="https://github.com/skoelpin/splunk/assets/168557627/7696977c-5698-4ab4-a281-d5302fa75a2b)" alt="PunctuLogix Logo" width="168" height="168">
+
+
 # PunctuLogix: Advanced Punctuation Analysis Tool
 
 PunctuLogix is a powerful Splunk application designed to enhance data analysis by focusing on the intricacies of punctuation usage within your data streams. This innovative tool meticulously identifies, extracts, and analyzes punctuation patterns, enabling users to uncover subtle insights and correlations that may be hidden within plain sight in logs and textual data.
